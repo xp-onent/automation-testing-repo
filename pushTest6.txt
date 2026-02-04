@@ -1,2 +1,2 @@
 testing push
-this should be notified on discord
+this should be notified on Slack
