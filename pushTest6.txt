@@ -1,2 +1,2 @@
 testing push
-this should be notified on Slack!
+this should be notified on Slack
